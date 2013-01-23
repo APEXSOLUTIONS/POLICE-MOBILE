@@ -1,0 +1,11 @@
+MIDlet-1: PoliceMobile, , PoliceMobile
+MIDlet-Certificate-1-1: MIIBmzCCAQSgAwIBAgIEUMCSijANBgkqhkiG9w0BAQUFADASMRAwDgYDVQQDEwd0cnVzdGVkMB4XDTEyMTIwNjEyNDE0NloXDTEzMDYwNDEyNDE0NlowEjEQMA4GA1UEAxMHdHJ1c3RlZDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAl1n9hhphENQzFiybWE236MwVk0HQqdoBYC2SbLgCdJH0DVlp175dL7rYacWq+wz1tzBNAfuM6dZxJ/p0B4udS7URz11HW7MTnywOi/fFfWJclz3CA60/9buAS6VZc0fkfuVdeMuprbuRbxaFtAxGYy+SoH7BFCHhBID3Z6vm4AcCAwEAATANBgkqhkiG9w0BAQUFAAOBgQAWUyuNZnEFY4HrLgi7LXe6hwYRw/jVGv5S+fw4VNg+K6XvtvS2ahQo+qPd+PHLIrjQUS2JAePT7l8F/Tf8DagvamxfX011mlasI1UoC1p1ZIWp8hcPhtPQVl1Io8bo9W7iLfGvJzVbA5xyAYoqtUuZkIUOX4Iyr/lwsV+ry+8XJQ==
+MIDlet-Jar-RSA-SHA1: WC272taXlL/f4EXV0eMxjpAZWsgJr5gORsNqMa8M4huAGV1petswd/s4PTN6dnPeZ0nZtY5+g81O6qdL8sO61MywfRVgPRAb4zDCJeGLL1BSXmaPmXXCgjFp/J38tM9wVyu/agotx2gBCmJm2SUcxusCgF5aAnqjITPJEz4zXlU=
+MIDlet-Jar-Size: 63815
+MIDlet-Jar-URL: PoliceMobile.jar
+MIDlet-Name: PoliceMobile
+MIDlet-Permissions: javax.microedition.media.control.VideoControl.getSnapshot, javax.microedition.io.Connector.http
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
