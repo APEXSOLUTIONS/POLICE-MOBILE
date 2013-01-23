@@ -31,7 +31,7 @@ import org.ksoap2.serialization.SoapSerializationEnvelope;
 import org.ksoap2.transport.HttpTransport;
 
 /**
- * @author iddi
+ * @author iddi Halfani from Apex Solutions
  */
 public class PoliceMobile extends MIDlet implements CommandListener {
 
